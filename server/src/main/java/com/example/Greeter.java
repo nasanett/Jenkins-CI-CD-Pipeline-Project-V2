@@ -16,7 +16,6 @@ public class Greeter {
    * This is a method.
    */
   public final String greet(final String someone) {
-    string DB_PASSWORD = 'Admin@123';
     return String.format("Hello Avinash, %s!", someone);
   }
 }
